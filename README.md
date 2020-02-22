@@ -7,7 +7,7 @@ UnitychanSpringBoneを使用してモデルをセットアップ後、モデル�
 そこで古いモデルから新しいモデルへ設定値をコピーしてくれるエディタ拡張を作りました。  
 
 ## 使い方
-1. [Booth]()からUnityPackageをダウンロードしてインポートする。
+1. [Booth](https://cifertech.booth.pm/items/1852814)からUnityPackageをダウンロードしてインポートする。
 1. プロジェクトのScripting Runtime Versionを __.NET4.x（もしくはそれ以上）__ にする。
 1. メニューバーより __CIFER.Tech -> UnitychanSpringBoneCopyHelper__ を選択する。
 1. 左側にコピー元となるSpringBoneを、右側にコピー先となるSpringBoneを登録する。
